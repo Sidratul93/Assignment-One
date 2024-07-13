@@ -16,6 +16,7 @@
     color: white;
     padding: 21PX 24PX;
     border-radius: 8PX;
+    text-align: center;
     
     
 }
@@ -28,6 +29,20 @@
 .section-description{
     font-size: 16;
     color: #0D1321;
+    
+}
+
+.main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.video{
+    text-align: center;
+}
+
+
+.text-center{
+    text-align: center;
 }
 /* header */
 .header{
@@ -67,4 +82,19 @@
 .about{
     border-radius: 48px;
 }
+/* main section */
 
+
+/* skill section styles */
+.skills-container{
+    display: flex;
+    gap: 24px;
+
+}
+.skill{
+    padding: 40px;
+    box-shadow: 0px 4px 4px 0px;
+    color:#000000 ;
+    text-align: center;
+    border-radius: 5px;
+}
