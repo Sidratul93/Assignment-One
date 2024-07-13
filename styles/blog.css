@@ -20,6 +20,15 @@
     
 }
 
+.section-title{
+    font-size: 32px;
+    font-weight: 852;
+    color: #0D1321;
+}
+.section-description{
+    font-size: 16;
+    color: #0D1321;
+}
 /* header */
 .header{
     background-image: url('../images/Hero-bg.png');
@@ -51,5 +60,11 @@
     justify-content: center;
     align-items: center;
 
+}
+
+
+/* about */
+.about{
+    border-radius: 48px;
 }
 
