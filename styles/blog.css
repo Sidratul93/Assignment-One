@@ -98,3 +98,8 @@
     text-align: center;
     border-radius: 5px;
 }
+
+/* footer */
+.footer{
+    background-image: url('../images/handshake.jpg');
+}
